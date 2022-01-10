@@ -89,3 +89,4 @@ Where `8` is the number of cores.
 ## Changes from the original code
 
 - Add a library in StrainCall, [commit 98838e4](https://github.com/AlessioMilanese/RAMBL/commit/98838e42110dea0ed780e81de8cfc98c3c09230d)
+- Remove temp directory at the end of the computation [9bc2781](https://github.com/AlessioMilanese/RAMBL/commit/9bc278194eea79464dd847b52a85a9efde811a67)
