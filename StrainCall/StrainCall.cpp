@@ -29,6 +29,7 @@
 #include <sstream>
 #include <functional>
 #include <algorithm>
+#include <random>
 using namespace std;
 
 void help()
