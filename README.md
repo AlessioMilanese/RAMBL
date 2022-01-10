@@ -87,3 +87,5 @@ python $RAMBL -c 8 -v data_info.txt 2>&1 | tee log.txt
 Where `8` is the number of cores.
 
 ## Changes from the original code
+
+- Add a library in StrainCall (f7f78663e0ff647c2f725e18bd415f210d2cc8d6)
