@@ -88,4 +88,4 @@ Where `8` is the number of cores.
 
 ## Changes from the original code
 
-- Add a library in StrainCall (f7f78663e0ff647c2f725e18bd415f210d2cc8d6)
+- Add a library in StrainCall, [commit 98838e4](https://github.com/AlessioMilanese/RAMBL/commit/98838e42110dea0ed780e81de8cfc98c3c09230d)
