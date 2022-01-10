@@ -1,0 +1,17 @@
+name: RAMBL
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bowtie2>=2.2.4
+  - samtools=0.1.19
+  - bedtools>=2.24.0
+  - sickle-trim>=1.33
+  - seqtk>=1.0
+  - ete2>=2.3.1
+  - scipy>=0.15.1
+  - numpy>=1.9.2
+  - scikit-bio
+  - biopython>=1.65
+  
