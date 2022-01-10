@@ -175,7 +175,7 @@ def main():
         proc_sum_bed.wait()
         if opts.verbose:
             logging.info('rm %s' % tmp_dir)
-        #shutil.rmtree(tmp_dir)
+        shutil.rmtree(tmp_dir)
         if opts.verbose:
             logging.info('complete')
 
